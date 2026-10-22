@@ -144,17 +144,40 @@ Create a screenshots/ folder at the repository root and add your
 actual UI images using the filenames below. Replace the paths if your
 filenames differ.
 
-**Dashboard**
-Fitness Tracker dashboard
+### Dashboard
 
-**Workout History**
-Workout history and filters
+![Fitness Tracker Dashboard](screenshots/Fitness%20Tracker%20dashboard.png)
 
-**Add Workout**
-Add Workout Form
+### Charts
 
-**Curated Workout Plans**
-Curated workout plans
+![Chart 1](screenshots/Chart%201.png)
+
+![Chart 2](screenshots/Chart%202.png)
+_________________________________________________________________________________
+
+### Menu
+
+![Menu](screenshots/Menu.png)
+
+### Add Workout Form
+
+![Add Workout Form](screenshots/Add%20Workout%20Form.png)
+
+### Workout History and Filters
+
+![Workout History and Filters](screenshots/Workout%20history%20and%20filters.png)
+
+### Curated Workout Plan </br>
+(Mobile View)
+
+![Curated Workout Plans](screenshots/Curated%20workout%20plans.png)
+______________________________________________________________________________________
+
+### Profile
+
+![Profile](screenshots/Profile.png)
+
+_______________________________________________________________________________________
 
 _Made with 💚 to make workout tracking clearer, more consistent and
 easier to follow._
